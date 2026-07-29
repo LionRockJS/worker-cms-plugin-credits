@@ -1,5 +1,5 @@
 {
-  "name": "@lionrockjs/worker-cms-plugin-credits",
+  "name": "@lionrockjs/worker-cms-plugin-decorator-credits",
   "version": "0.1.0",
   "description": "Optional credit and diamond client APIs for 0xCMS Worker plugins",
   "license": "MIT",
@@ -20,7 +20,6 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^5.20260719.1",
     "typescript": "^7.0.2",
     "vitest": "^4.1.10"
   }
